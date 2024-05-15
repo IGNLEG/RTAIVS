@@ -1,0 +1,43 @@
+"filename", "language", "JSON with Comments", "JSON", "TypeScript", "vue", "CSS", "Markdown", "JavaScript", "XML", "comment", "blank", "total"
+"d:\FOrg-front\README.md", "Markdown", 0, 0, 0, 0, 0, 50, 0, 0, 0, 26, 76
+"d:\FOrg-front\app.vue", "vue", 0, 0, 0, 7, 0, 0, 0, 0, 0, 1, 8
+"d:\FOrg-front\assets\fonts\Amble-Regular-normal.js", "JavaScript", 0, 0, 0, 0, 0, 0, 8, 0, 0, 2, 10
+"d:\FOrg-front\assets\fonts\Amble-bold.js", "JavaScript", 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 9
+"d:\FOrg-front\assets\logo.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 2468, 0, 1, 2469
+"d:\FOrg-front\assets\main.css", "CSS", 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 7
+"d:\FOrg-front\layouts\default.vue", "vue", 0, 0, 0, 100, 0, 0, 0, 0, 0, 13, 113
+"d:\FOrg-front\layouts\guest.vue", "vue", 0, 0, 0, 9, 0, 0, 0, 0, 0, 4, 13
+"d:\FOrg-front\nuxt.config.ts", "TypeScript", 0, 0, 47, 0, 0, 0, 0, 0, 1, 0, 48
+"d:\FOrg-front\package-lock.json", "JSON", 0, 9963, 0, 0, 0, 0, 0, 0, 0, 1, 9964
+"d:\FOrg-front\package.json", "JSON", 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 37
+"d:\FOrg-front\pages\clients\[c_id]\edit.vue", "vue", 0, 0, 0, 63, 0, 0, 0, 0, 0, 9, 72
+"d:\FOrg-front\pages\clients\[id].vue", "vue", 0, 0, 0, 52, 0, 0, 0, 0, 0, 7, 59
+"d:\FOrg-front\pages\clients\index.vue", "vue", 0, 0, 0, 66, 0, 0, 0, 0, 0, 8, 74
+"d:\FOrg-front\pages\clients\new.vue", "vue", 0, 0, 0, 55, 0, 0, 0, 0, 0, 5, 60
+"d:\FOrg-front\pages\companies\[id].vue", "vue", 0, 0, 0, 76, 0, 0, 0, 0, 0, 7, 83
+"d:\FOrg-front\pages\companies\[m_id]\edit.vue", "vue", 0, 0, 0, 98, 0, 0, 0, 0, 0, 8, 106
+"d:\FOrg-front\pages\companies\index.vue", "vue", 0, 0, 0, 86, 0, 0, 0, 0, 0, 8, 94
+"d:\FOrg-front\pages\companies\new.vue", "vue", 0, 0, 0, 81, 0, 0, 0, 0, 0, 5, 86
+"d:\FOrg-front\pages\equipment\[id].vue", "vue", 0, 0, 0, 75, 0, 0, 0, 0, 0, 10, 85
+"d:\FOrg-front\pages\equipment\[q_id]\edit.vue", "vue", 0, 0, 0, 161, 0, 0, 0, 0, 0, 23, 184
+"d:\FOrg-front\pages\equipment\index.vue", "vue", 0, 0, 0, 252, 0, 0, 0, 0, 0, 15, 267
+"d:\FOrg-front\pages\equipment\new.vue", "vue", 0, 0, 0, 118, 0, 0, 0, 0, 0, 12, 130
+"d:\FOrg-front\pages\events\[e_id]\edit.vue", "vue", 0, 0, 0, 521, 0, 0, 0, 0, 0, 61, 582
+"d:\FOrg-front\pages\events\[e_id]\equipment.vue", "vue", 0, 0, 0, 253, 0, 0, 0, 0, 0, 20, 273
+"d:\FOrg-front\pages\events\[id].vue", "vue", 0, 0, 0, 233, 0, 0, 0, 0, 0, 31, 264
+"d:\FOrg-front\pages\events\index.vue", "vue", 0, 0, 0, 89, 0, 0, 0, 0, 0, 8, 97
+"d:\FOrg-front\pages\events\new.vue", "vue", 0, 0, 0, 493, 0, 0, 0, 0, 0, 52, 545
+"d:\FOrg-front\pages\inbox.vue", "vue", 0, 0, 0, 175, 0, 0, 0, 0, 0, 11, 186
+"d:\FOrg-front\pages\index.vue", "vue", 0, 0, 0, 104, 0, 0, 0, 0, 0, 11, 115
+"d:\FOrg-front\pages\login.vue", "vue", 0, 0, 0, 43, 0, 0, 0, 0, 0, 5, 48
+"d:\FOrg-front\pages\register.vue", "vue", 0, 0, 0, 61, 0, 0, 0, 0, 0, 3, 64
+"d:\FOrg-front\pages\tags\index.vue", "vue", 0, 0, 0, 153, 0, 0, 0, 0, 0, 9, 162
+"d:\FOrg-front\pages\vehicles\[id].vue", "vue", 0, 0, 0, 87, 0, 0, 0, 0, 0, 10, 97
+"d:\FOrg-front\pages\vehicles\[v_id]\edit.vue", "vue", 0, 0, 0, 101, 0, 0, 0, 0, 0, 14, 115
+"d:\FOrg-front\pages\vehicles\index.vue", "vue", 0, 0, 0, 73, 0, 0, 0, 0, 0, 8, 81
+"d:\FOrg-front\pages\vehicles\new.vue", "vue", 0, 0, 0, 88, 0, 0, 0, 0, 0, 6, 94
+"d:\FOrg-front\pages\warehouses\index.vue", "vue", 0, 0, 0, 153, 0, 0, 0, 0, 0, 9, 162
+"d:\FOrg-front\plugins\vuetify.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 2, 3, 13
+"d:\FOrg-front\server\tsconfig.json", "JSON with Comments", 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\FOrg-front\tsconfig.json", "JSON with Comments", 3, 0, 0, 0, 0, 0, 0, 0, 1, 1, 5
+"Total", "-", 6, 9999, 55, 3926, 7, 50, 16, 2468, 4, 430, 16961

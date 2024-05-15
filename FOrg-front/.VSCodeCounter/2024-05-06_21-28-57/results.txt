@@ -1,0 +1,111 @@
+Date : 2024-05-06 21:28:57
+Directory : d:\FOrg-front
+Total : 49 files,  17500 codes, 4 comments, 512 blanks, all 18016 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          2 |     10,020 |          0 |          2 |     10,022 |
+| vue                |         35 |      4,860 |          0 |        472 |      5,332 |
+| XML                |          1 |      2,468 |          0 |          1 |      2,469 |
+| TypeScript         |          5 |         73 |          3 |          6 |         82 |
+| Markdown           |          1 |         50 |          0 |         26 |         76 |
+| JavaScript         |          2 |         16 |          0 |          3 |         19 |
+| CSS                |          1 |          7 |          0 |          0 |          7 |
+| JSON with Comments |          2 |          6 |          1 |          2 |          9 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                               | files      | code       | comment    | blank      | total      |
++----------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                  |         49 |     17,500 |          4 |        512 |     18,016 |
+| . (Files)                                          |          6 |     10,127 |          2 |         30 |     10,159 |
+| assets                                             |          4 |      2,491 |          0 |          4 |      2,495 |
+| assets (Files)                                     |          2 |      2,475 |          0 |          1 |      2,476 |
+| assets\fonts                                       |          2 |         16 |          0 |          3 |         19 |
+| layouts                                            |          2 |        117 |          0 |         17 |        134 |
+| middleware                                         |          3 |         18 |          0 |          3 |         21 |
+| pages                                              |         32 |      4,736 |          0 |        454 |      5,190 |
+| pages (Files)                                      |          4 |        390 |          0 |         32 |        422 |
+| pages\clients                                      |          4 |        236 |          0 |         29 |        265 |
+| pages\clients (Files)                              |          3 |        173 |          0 |         20 |        193 |
+| pages\clients\[c_id]                               |          1 |         63 |          0 |          9 |         72 |
+| pages\companies                                    |          4 |        347 |          0 |         27 |        374 |
+| pages\companies (Files)                            |          3 |        249 |          0 |         19 |        268 |
+| pages\companies\[m_id]                             |          1 |         98 |          0 |          8 |        106 |
+| pages\equipment                                    |          4 |        612 |          0 |         59 |        671 |
+| pages\equipment (Files)                            |          3 |        451 |          0 |         36 |        487 |
+| pages\equipment\[q_id]                             |          1 |        161 |          0 |         23 |        184 |
+| pages\events                                       |          6 |      2,152 |          0 |        218 |      2,370 |
+| pages\events (Files)                               |          3 |      1,125 |          0 |        115 |      1,240 |
+| pages\events\[e_id]                                |          3 |      1,027 |          0 |        103 |      1,130 |
+| pages\qualifications                               |          1 |        142 |          0 |          9 |        151 |
+| pages\tags                                         |          1 |        153 |          0 |          9 |        162 |
+| pages\users                                        |          3 |        190 |          0 |         26 |        216 |
+| pages\users (Files)                                |          2 |        121 |          0 |         17 |        138 |
+| pages\users\[h_id]                                 |          1 |         69 |          0 |          9 |         78 |
+| pages\vehicles                                     |          4 |        355 |          0 |         37 |        392 |
+| pages\vehicles (Files)                             |          3 |        254 |          0 |         23 |        277 |
+| pages\vehicles\[v_id]                              |          1 |        101 |          0 |         14 |        115 |
+| pages\warehouses                                   |          1 |        159 |          0 |          8 |        167 |
+| plugins                                            |          1 |          8 |          2 |          3 |         13 |
+| server                                             |          1 |          3 |          0 |          1 |          4 |
++----------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                           | language           | code       | comment    | blank      | total      |
++----------------------------------------------------+--------------------+------------+------------+------------+------------+
+| d:\FOrg-front\README.md                            | Markdown           |         50 |          0 |         26 |         76 |
+| d:\FOrg-front\app.vue                              | vue                |          7 |          0 |          1 |          8 |
+| d:\FOrg-front\assets\fonts\Amble-Regular-normal.js | JavaScript         |          8 |          0 |          2 |         10 |
+| d:\FOrg-front\assets\fonts\Amble-bold.js           | JavaScript         |          8 |          0 |          1 |          9 |
+| d:\FOrg-front\assets\logo.svg                      | XML                |      2,468 |          0 |          1 |      2,469 |
+| d:\FOrg-front\assets\main.css                      | CSS                |          7 |          0 |          0 |          7 |
+| d:\FOrg-front\layouts\default.vue                  | vue                |        108 |          0 |         13 |        121 |
+| d:\FOrg-front\layouts\guest.vue                    | vue                |          9 |          0 |          4 |         13 |
+| d:\FOrg-front\middleware\admin.ts                  | TypeScript         |          6 |          0 |          1 |          7 |
+| d:\FOrg-front\middleware\organiser.ts              | TypeScript         |          6 |          0 |          1 |          7 |
+| d:\FOrg-front\middleware\warehouse_worker.ts       | TypeScript         |          6 |          0 |          1 |          7 |
+| d:\FOrg-front\nuxt.config.ts                       | TypeScript         |         47 |          1 |          0 |         48 |
+| d:\FOrg-front\package-lock.json                    | JSON               |      9,982 |          0 |          1 |      9,983 |
+| d:\FOrg-front\package.json                         | JSON               |         38 |          0 |          1 |         39 |
+| d:\FOrg-front\pages\clients\[c_id]\edit.vue        | vue                |         63 |          0 |          9 |         72 |
+| d:\FOrg-front\pages\clients\[id].vue               | vue                |         52 |          0 |          7 |         59 |
+| d:\FOrg-front\pages\clients\index.vue              | vue                |         66 |          0 |          8 |         74 |
+| d:\FOrg-front\pages\clients\new.vue                | vue                |         55 |          0 |          5 |         60 |
+| d:\FOrg-front\pages\companies\[id].vue             | vue                |         76 |          0 |          7 |         83 |
+| d:\FOrg-front\pages\companies\[m_id]\edit.vue      | vue                |         98 |          0 |          8 |        106 |
+| d:\FOrg-front\pages\companies\index.vue            | vue                |         92 |          0 |          7 |         99 |
+| d:\FOrg-front\pages\companies\new.vue              | vue                |         81 |          0 |          5 |         86 |
+| d:\FOrg-front\pages\equipment\[id].vue             | vue                |         75 |          0 |         10 |         85 |
+| d:\FOrg-front\pages\equipment\[q_id]\edit.vue      | vue                |        161 |          0 |         23 |        184 |
+| d:\FOrg-front\pages\equipment\index.vue            | vue                |        258 |          0 |         14 |        272 |
+| d:\FOrg-front\pages\equipment\new.vue              | vue                |        118 |          0 |         12 |        130 |
+| d:\FOrg-front\pages\events\[e_id]\edit.vue         | vue                |        529 |          0 |         63 |        592 |
+| d:\FOrg-front\pages\events\[e_id]\equipment.vue    | vue                |        251 |          0 |         20 |        271 |
+| d:\FOrg-front\pages\events\[e_id]\vehicles.vue     | vue                |        247 |          0 |         20 |        267 |
+| d:\FOrg-front\pages\events\[id].vue                | vue                |        317 |          0 |         36 |        353 |
+| d:\FOrg-front\pages\events\index.vue               | vue                |        304 |          0 |         27 |        331 |
+| d:\FOrg-front\pages\events\new.vue                 | vue                |        504 |          0 |         52 |        556 |
+| d:\FOrg-front\pages\inbox.vue                      | vue                |        175 |          0 |         11 |        186 |
+| d:\FOrg-front\pages\index.vue                      | vue                |        115 |          0 |         13 |        128 |
+| d:\FOrg-front\pages\login.vue                      | vue                |         39 |          0 |          5 |         44 |
+| d:\FOrg-front\pages\qualifications\index.vue       | vue                |        142 |          0 |          9 |        151 |
+| d:\FOrg-front\pages\register.vue                   | vue                |         61 |          0 |          3 |         64 |
+| d:\FOrg-front\pages\tags\index.vue                 | vue                |        153 |          0 |          9 |        162 |
+| d:\FOrg-front\pages\users\[h_id]\edit.vue          | vue                |         69 |          0 |          9 |         78 |
+| d:\FOrg-front\pages\users\[id].vue                 | vue                |         52 |          0 |          8 |         60 |
+| d:\FOrg-front\pages\users\index.vue                | vue                |         69 |          0 |          9 |         78 |
+| d:\FOrg-front\pages\vehicles\[id].vue              | vue                |         87 |          0 |         10 |         97 |
+| d:\FOrg-front\pages\vehicles\[v_id]\edit.vue       | vue                |        101 |          0 |         14 |        115 |
+| d:\FOrg-front\pages\vehicles\index.vue             | vue                |         79 |          0 |          7 |         86 |
+| d:\FOrg-front\pages\vehicles\new.vue               | vue                |         88 |          0 |          6 |         94 |
+| d:\FOrg-front\pages\warehouses\index.vue           | vue                |        159 |          0 |          8 |        167 |
+| d:\FOrg-front\plugins\vuetify.ts                   | TypeScript         |          8 |          2 |          3 |         13 |
+| d:\FOrg-front\server\tsconfig.json                 | JSON with Comments |          3 |          0 |          1 |          4 |
+| d:\FOrg-front\tsconfig.json                        | JSON with Comments |          3 |          1 |          1 |          5 |
+| Total                                              |                    |     17,500 |          4 |        512 |     18,016 |
++----------------------------------------------------+--------------------+------------+------------+------------+------------+
